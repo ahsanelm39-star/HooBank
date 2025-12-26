@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 HooBank
+![Cover](https://i.postimg.cc/WzmBTbBx/Hoo-Bank-(4).png)
 
-## Getting Started
+A modern website with a distinctive design offering banking and currency exchange services.
 
-First, run the development server:
+---
+
+
+## 🌐 Demo
+🔗 **Live Preview:** [View Demo](https://hoo-bank-cyan-rho.vercel.app/#about)  
+📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/HooBank)
+
+---
+
+## ✨ Features
+- ⚡ Fast and responsive across all devices
+- 🎨 Clean UI built with Tailwind CSS
+- 🌍 SEO optimized & accessible
+- 🧰 Easy to customize and extend
+
+---
+
+## 🛠️ Tech Stack
+| Category | Tools |
+|---------|--------|
+| **Framework** | Next.js  |
+| **Language** | JavaScript |
+| **Styling** | Tailwind CSS |
+| **Deployment** | Vercel |
+---
+
+## 📸 Screenshots
+| Desktop View | Mobile View |
+|---------------|--------------|
+| ![Desktop](https://i.postimg.cc/grF2BJVW/ZY1RD6E8Rk-A.png) | ![Mobile](https://i.postimg.cc/G3BPN5Fx/cca796be141.png) |
+
+---
+
+
+## 🧰 Installation
+
+Clone the project and install dependencies:
 
 ```bash
+https://github.com/ahsanelm39-star/HooBank.git
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser at:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🏗️ Build
 
-To learn more about Next.js, take a look at the following resources:
+Create a production build:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Start the production server:
 
-## Deploy on Vercel
+```bash
+npm start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The optimized build will be generated inside:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```
+.next/
+```
+
+---
+
+## 🌐 Deploy on Vercel
+
+1. Push your project to GitHub  
+2. Open **Vercel Dashboard** → *Add New Project*  
+3. Select your repository  
+4. Vercel will detect Next.js automatically  
+5. Use these default settings:
+
+| Setting           | Value         |
+|------------------|----------------|
+| Build Command     | npm run build |
+| Install Command   | npm install   |
+| Output Directory  | .next         |
+
+🎉 Click **Deploy** — and your site goes live!
