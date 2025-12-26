@@ -7,7 +7,7 @@ A modern website with a distinctive design offering banking and currency exchang
 
 
 ## 🌐 Demo
-🔗 **Live Preview:** [View Demo](https://hoo-bank-cyan-rho.vercel.app/#about)  
+🔗 **Live Preview:** [View Demo](https://hoo-bank-cyan-rho.vercel.app/)  
 📦 **Repository:** [GitHub Repo](https://github.com/ahsanelm39-star/HooBank)
 
 ---
